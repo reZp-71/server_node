@@ -1,0 +1,9 @@
+{
+  "quartieri": [
+    {"id":1,"nome":"Bovisa","dato":22,"testo":"Bovisa testo 1 testo 1 testo 1 testo 1"},
+    {"id":2,"nome":"Niguarda","dato":33,"testo":"Niguarda testo 1 testo 1 testo 1 testo 1"},
+    {"id":3,"nome":"Portello","dato":11,"testo":"Portello testo 1 testo 1 testo 1 testo 1"},
+    {"id":4,"nome":"Ortica","dato":62,"testo":"Ortica testo 1 testo 1 testo 1 testo 1"},
+    {"id":5,"nome":"Isola","dato":28,"testo":"Isola testo 1 testo 1 testo 1 testo 1"}
+  ]
+}
